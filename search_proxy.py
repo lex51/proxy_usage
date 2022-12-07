@@ -24,7 +24,7 @@ async def get_ip(protocol: str = None, ip: str = None, port: str = None) -> str:
     except BaseException as BE:
         print(BE)
 
-async check_ip():
+# async check_ip():
 
 async def main():
     start_time = time.time()
